@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockChannelIP", "MockChannelIP\MockChannelIP.csproj", "{EC40D9C7-C440-46CE-9E31-380A7FA1CADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC40D9C7-C440-46CE-9E31-380A7FA1CADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC40D9C7-C440-46CE-9E31-380A7FA1CADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC40D9C7-C440-46CE-9E31-380A7FA1CADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC40D9C7-C440-46CE-9E31-380A7FA1CADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84904CF2-F07D-483F-BE26-9BE89DE5A270}
+	EndGlobalSection
+EndGlobal
